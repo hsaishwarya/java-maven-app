@@ -16,3 +16,4 @@ scripts/deliver.sh
 
 this is a build trigger test
 trigger
+persistent
